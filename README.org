@@ -4,7 +4,7 @@ Common Lisp system for generating and parsing of OpenSSH keys
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/dnaeon/cl-ssh-keys.git   |
-| commit  | 544f263  |
+| commit  | 789ea28  |
 | systems | cl-ssh-keys |
 |---------+-------------------------------------------|
 
